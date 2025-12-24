@@ -83,3 +83,58 @@ public:
         return high+1+k;
     }
 };
+
+
+class Solution {
+    void merge(vector<pair<int,int>> &newArr, int low, int mid, int high, vector<int> &ans) {
+        vector<pair<int,int>> temp;
+        int i = low;
+        int j = mid + 1;
+
+        while (i <= mid && j <= high) {
+            if (newArr[i].first < newArr[j].first) {
+                // right element is greater
+                ans[newArr[i].second] += (high - j + 1);
+                temp.push_back(newArr[i++]);
+            } else {
+                temp.push_back(newArr[j++]);
+            }
+        }
+
+        while (i <= mid) temp.push_back(newArr[i++]);
+        while (j <= high) temp.push_back(newArr[j++]);
+
+        for (int k = low; k <= high; k++) {
+            newArr[k] = temp[k - low];
+        }
+    }
+
+    void MergeSort(vector<pair<int,int>> &newArr, int low, int high, vector<int> &ans) {
+        if (low < high) {
+            int mid = low + (high - low) / 2;
+            MergeSort(newArr, low, mid, ans);
+            MergeSort(newArr, mid + 1, high, ans);
+            merge(newArr, low, mid, high, ans);
+        }
+    }
+
+  public:
+    vector<int> count_NGE(vector<int> &arr, vector<int> &indices) {
+        int n = arr.size();
+        vector<int> ans(n, 0);
+        vector<int> result;
+        vector<pair<int,int>> newArr;
+
+        for (int i = 0; i < n; i++) {
+            newArr.push_back({arr[i], i});
+        }
+
+        MergeSort(newArr, 0, n - 1, ans);
+
+        for (auto it : indices) {
+            result.push_back(ans[it]);
+        }
+
+        return result;
+    }
+};
