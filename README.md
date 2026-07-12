@@ -13,18 +13,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DhruvKumar2917/LeetCode/tree/master/0743-network-delay-time) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DhruvKumar2917/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DhruvKumar2917/LeetCode/tree/master/0743-network-delay-time) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DhruvKumar2917/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DhruvKumar2917/LeetCode/tree/master/0743-network-delay-time) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DhruvKumar2917/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## String
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DhruvKumar2917/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
