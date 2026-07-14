@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1301-number-of-paths-with-max-score](https://github.com/DhruvKumar2917/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1301-number-of-paths-with-max-score](https://github.com/DhruvKumar2917/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Depth-First Search
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/DhruvKumar2917/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/DhruvKumar2917/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
