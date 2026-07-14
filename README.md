@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DhruvKumar2917/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3620-network-recovery-pathways](https://github.com/DhruvKumar2917/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -35,21 +37,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DhruvKumar2917/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DhruvKumar2917/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## String
 |  |
@@ -58,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [3620-network-recovery-pathways](https://github.com/DhruvKumar2917/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
