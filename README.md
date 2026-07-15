@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/DhruvKumar2917/LeetCode/tree/master/1871-jump-game-vii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/DhruvKumar2917/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/DhruvKumar2917/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/DhruvKumar2917/LeetCode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/DhruvKumar2917/LeetCode/tree/master/1871-jump-game-vii) |
 | [3620-network-recovery-pathways](https://github.com/DhruvKumar2917/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1340-jump-game-v](https://github.com/DhruvKumar2917/LeetCode/tree/master/1340-jump-game-v) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/DhruvKumar2917/LeetCode/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/DhruvKumar2917/LeetCode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
