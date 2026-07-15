@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/DhruvKumar2917/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1340-jump-game-v](https://github.com/DhruvKumar2917/LeetCode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/DhruvKumar2917/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1340-jump-game-v](https://github.com/DhruvKumar2917/LeetCode/tree/master/1340-jump-game-v) |
 | [3620-network-recovery-pathways](https://github.com/DhruvKumar2917/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1340-jump-game-v](https://github.com/DhruvKumar2917/LeetCode/tree/master/1340-jump-game-v) |
 <!---LeetCode Topics End-->
