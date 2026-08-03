@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvKumar2917/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/DhruvKumar2917/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvKumar2917/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DhruvKumar2917/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -94,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvKumar2917/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/DhruvKumar2917/LeetCode/tree/master/1871-jump-game-vii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DhruvKumar2917/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/DhruvKumar2917/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/DhruvKumar2917/LeetCode/tree/master/1871-jump-game-vii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DhruvKumar2917/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Concurrency
