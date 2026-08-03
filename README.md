@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvKumar2917/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0778-swim-in-rising-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DhruvKumar2917/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/DhruvKumar2917/LeetCode/tree/master/1114-print-in-order) |
 | [1226-the-dining-philosophers](https://github.com/DhruvKumar2917/LeetCode/tree/master/1226-the-dining-philosophers) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
