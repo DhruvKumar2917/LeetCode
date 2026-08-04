@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/DhruvKumar2917/LeetCode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/DhruvKumar2917/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DhruvKumar2917/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/DhruvKumar2917/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/DhruvKumar2917/LeetCode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/DhruvKumar2917/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3620-network-recovery-pathways](https://github.com/DhruvKumar2917/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvKumar2917/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/DhruvKumar2917/LeetCode/tree/master/1871-jump-game-vii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/DhruvKumar2917/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/DhruvKumar2917/LeetCode/tree/master/2401-longest-nice-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DhruvKumar2917/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DhruvKumar2917/LeetCode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/DhruvKumar2917/LeetCode/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
